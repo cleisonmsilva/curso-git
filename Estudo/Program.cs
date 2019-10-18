@@ -7,6 +7,9 @@ namespace curso {
             Console.WriteLine("bom dia!");
             Console.WriteLine("bom tarde!");
             Console.WriteLine("Boa noite!");
+
+            Console.WriteLine(2+2);
+
         }
     }
 }
